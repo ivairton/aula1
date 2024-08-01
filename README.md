@@ -1,3 +1,7 @@
+UFMT - Campus Universitário do Araguaia
+Bacharelado em Ciência da Computação
+Disciplina de Programção de Computadores
+
 # Aula 1
 Exercícios correspondentes a primeira aula do curso.
 
